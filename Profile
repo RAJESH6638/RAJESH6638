@@ -30,12 +30,8 @@ I’m looking for opportunities to collaborate with dynamic teams on projects th
 <h2 align="center">🚀Languages💥Tools🚀</h2>
 <br/>
 <div align="center">
-<!-- <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" /> -->
-
-    <!-- Displaying skill icons for MySQL, Python, Excel, Tableau, and Power BI -->
-<!-- Displaying skill logos for MySQL, Python, Excel, Tableau, and Power BI -->
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+<img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs,mysql,php,laravel" /><br>
 <br>
 
 </div>
