@@ -36,5 +36,3 @@ I’m looking for opportunities to collaborate with dynamic teams on projects th
 
 <br/>
 <hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH6638&layout=compact&theme=midnight-purple)
