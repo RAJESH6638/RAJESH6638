@@ -32,7 +32,10 @@ I’m looking for opportunities to collaborate with dynamic teams on projects th
 <div align="center">
 <!-- <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" /> -->
 
-    <img src="https://skillicons.dev/icons?i=mysql,python,excel,tableau,microsoftpowerbi" /><br>
+    <!-- Displaying skill icons for MySQL, Python, Excel, Tableau, and Power BI -->
+<img src="https://skillicons.dev/icons?i=mysql,python,excel,tableau,microsoftpowerbi" alt="Skill Icons: MySQL, Python, Excel, Tableau, Power BI" />
+<br>
+
 </div>
 
 <br/>
