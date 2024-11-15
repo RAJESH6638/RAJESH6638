@@ -18,7 +18,7 @@ I’m looking for opportunities to collaborate with dynamic teams on projects th
  
 <div align="center"> 
   <a href="writetorajesh1214@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rajesh-singh/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +30,7 @@ I’m looking for opportunities to collaborate with dynamic teams on projects th
 <h2 align="center">🚀Languages💥Tools🚀</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,py" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,py,r,anaconda" /><br>
 </div>
 </div>
 
